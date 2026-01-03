@@ -1,0 +1,282 @@
+[
+  {
+    "category": "business",
+    "pre": "We need to stick to the",
+    "target": "agenda",
+    "post": "to finish on time.",
+    "translation": "Нам нужно придерживаться повестки дня, чтобы закончить вовремя.",
+    "options": [
+      "agency",
+      "agent",
+      "agenda",
+      "agreement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "business",
+    "pre": "Please send the",
+    "target": "invoice",
+    "post": "to the accounting department.",
+    "translation": "Пожалуйста, отправьте счет-фактуру в бухгалтерию.",
+    "options": [
+      "invoice",
+      "advice",
+      "device",
+      "voice"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "business",
+    "pre": "They decided to",
+    "target": "launch",
+    "post": "the new product next month.",
+    "translation": "Они решили запустить новый продукт в следующем месяце.",
+    "options": [
+      "lunch",
+      "lunge",
+      "lounge",
+      "launch"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "business",
+    "pre": "We have a tight",
+    "target": "deadline",
+    "post": "for this project.",
+    "translation": "У нас жесткий срок сдачи этого проекта.",
+    "options": [
+      "dead end",
+      "deadline",
+      "headline",
+      "outline"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "business",
+    "pre": "Can you take the",
+    "target": "minutes",
+    "post": "during the meeting?",
+    "translation": "Ты можешь вести протокол во время собрания?",
+    "options": [
+      "hours",
+      "moments",
+      "seconds",
+      "minutes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "business",
+    "pre": "He wants to",
+    "target": "negotiate",
+    "post": "a higher salary.",
+    "translation": "Он хочет договориться о более высокой зарплате.",
+    "options": [
+      "navigate",
+      "negotiate",
+      "negate",
+      "nominate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "business",
+    "pre": "The company went",
+    "target": "bankrupt",
+    "post": "after the crisis.",
+    "translation": "Компания обанкротилась после кризиса.",
+    "options": [
+      "corrupt",
+      "abrupt",
+      "bankrupt",
+      "interrupt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "business",
+    "pre": "We signed the",
+    "target": "contract",
+    "post": "yesterday morning.",
+    "translation": "Мы подписали контракт вчера утром.",
+    "options": [
+      "contact",
+      "contrast",
+      "context",
+      "contract"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "business",
+    "pre": "Our main",
+    "target": "competitor",
+    "post": "has lowered their prices.",
+    "translation": "Наш главный конкурент снизил цены.",
+    "options": [
+      "computer",
+      "competitor",
+      "completion",
+      "competence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "business",
+    "pre": "She received a",
+    "target": "promotion",
+    "post": "last week.",
+    "translation": "Она получила повышение на прошлой неделе.",
+    "options": [
+      "promotion",
+      "motion",
+      "proportion",
+      "commotion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "business",
+    "pre": "We need to",
+    "target": "recruit",
+    "post": "more staff for the summer.",
+    "translation": "Нам нужно нанять больше сотрудников на лето.",
+    "options": [
+      "route",
+      "recruit",
+      "recount",
+      "repair"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "business",
+    "pre": "The company's",
+    "target": "headquarters",
+    "post": "are in London.",
+    "translation": "Штаб-квартира компании находится в Лондоне.",
+    "options": [
+      "headers",
+      "quarters",
+      "headquarters",
+      "headlines"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "business",
+    "pre": "Please submit your",
+    "target": "proposal",
+    "post": "by Friday.",
+    "translation": "Пожалуйста, отправьте ваше предложение до пятницы.",
+    "options": [
+      "purpose",
+      "disposal",
+      "proposal",
+      "proposition"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "business",
+    "pre": "We offer a 10%",
+    "target": "discount",
+    "post": "for bulk orders.",
+    "translation": "Мы предлагаем скидку 10% на оптовые заказы.",
+    "options": [
+      "account",
+      "discount",
+      "recount",
+      "amount"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "business",
+    "pre": "The",
+    "target": "shareholders",
+    "post": "are happy with the annual report.",
+    "translation": "Акционеры довольны годовым отчетом.",
+    "options": [
+      "shareholders",
+      "slaveholders",
+      "householders",
+      "placeholders"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "business",
+    "pre": "It is a win-win",
+    "target": "situation",
+    "post": "for both parties.",
+    "translation": "Это беспроигрышная ситуация для обеих сторон.",
+    "options": [
+      "station",
+      "citation",
+      "location",
+      "situation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "business",
+    "pre": "What is the net",
+    "target": "profit",
+    "post": "for this quarter?",
+    "translation": "Какова чистая прибыль за этот квартал?",
+    "options": [
+      "prophet",
+      "profile",
+      "profit",
+      "prospect"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "business",
+    "pre": "He decided to",
+    "target": "resign",
+    "post": "from his position.",
+    "translation": "Он решил уволиться со своей должности.",
+    "options": [
+      "resign",
+      "assign",
+      "design",
+      "sign"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "business",
+    "pre": "We experienced a supply",
+    "target": "chain",
+    "post": "disruption.",
+    "translation": "Мы столкнулись с нарушением цепочки поставок.",
+    "options": [
+      "train",
+      "chain",
+      "rain",
+      "change"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "business",
+    "pre": "I am looking for a",
+    "target": "vacancy",
+    "post": "in the marketing department.",
+    "translation": "Я ищу вакансию в отделе маркетинга.",
+    "options": [
+      "vacation",
+      "vacuum",
+      "vacancy",
+      "validity"
+    ],
+    "correctIndex": 2
+  }
+]

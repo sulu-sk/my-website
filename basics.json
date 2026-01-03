@@ -1,0 +1,23 @@
+[
+  {
+    "category": "travel",
+    "id": "tr_001",
+    "pre": "I need to",
+    "target": "book",
+    "post": "a flight.",
+    "translation": "Мне нужно забронировать рейс.",
+    "options": ["look", "book", "cook", "took"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "id": "tr_002",
+    "pre": "Here is my",
+    "target": "passport",
+    "post": ".",
+    "translation": "Вот мой паспорт.",
+    "options": ["paper", "password", "passport", "port"],
+    "correctIndex": 2
+  }
+]
+
