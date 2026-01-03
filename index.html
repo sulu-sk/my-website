@@ -479,7 +479,7 @@ async startGame(category) {
     try {
         // 2. ЗАГРУЖАЕМ ФАЙЛ С ВОПРОСАМИ
         // Обрати внимание: файл должен лежать в папке data/имя_категории.json
-        const response = await fetch(`data/${category}.json`);
+        const response = await fetch(`${category}.json`);
         
         if (!response.ok) throw new Error('Не удалось загрузить вопросы');
         
@@ -759,4 +759,5 @@ async startGame(category) {
 
     </script>
 </body>
+
 </html>
