@@ -1,0 +1,362 @@
+[
+  {
+    "category": "travel",
+    "pre": "Where is the",
+    "target": "airport",
+    "post": " located?",
+    "translation": "Где находится аэропорт?",
+    "options": ["hotel", "office", "airport", "restaurant"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "How can I get to the",
+    "target": "city",
+    "post": " center?",
+    "translation": "Как добраться до центра города?",
+    "options": ["village", "city", "country", "building"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "I have a hotel",
+    "target": "reservation",
+    "post": ".",
+    "translation": "У меня есть бронь в отеле.",
+    "options": ["question", "reservation", "schedule", "problem"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "I would like to",
+    "target": "check",
+    "post": " in at the hotel.",
+    "translation": "Я хотел бы заселиться в отель.",
+    "options": ["check", "move", "stay", "come"],
+    "correctIndex": 0
+  },
+  {
+    "category": "travel",
+    "pre": "What time is",
+    "target": "check-out",
+    "post": " tomorrow?",
+    "translation": "Во сколько выезд завтра?",
+    "options": ["check-in", "check-out", "booking", "arrival"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Are there any",
+    "target": "rooms",
+    "post": " available tonight?",
+    "translation": "Есть ли свободные номера сегодня?",
+    "options": ["tables", "rooms", "floors", "tickets"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "How much does this",
+    "target": "cost",
+    "post": " per night?",
+    "translation": "Сколько это стоит за ночь?",
+    "options": ["cost", "pay", "charge", "bill"],
+    "correctIndex": 0
+  },
+  {
+    "category": "travel",
+    "pre": "Is breakfast",
+    "target": "included",
+    "post": " in the price?",
+    "translation": "Завтрак включен в цену?",
+    "options": ["served", "included", "ordered", "delivered"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Can I pay by credit",
+    "target": "card",
+    "post": "?",
+    "translation": "Можно оплатить кредитной картой?",
+    "options": ["cash", "card", "coin", "check"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Could you call a",
+    "target": "taxi",
+    "post": " for me?",
+    "translation": "Не могли бы вы вызвать мне такси?",
+    "options": ["bus", "train", "taxi", "plane"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Where can I buy a train",
+    "target": "ticket",
+    "post": "?",
+    "translation": "Где можно купить билет на поезд?",
+    "options": ["map", "pass", "ticket", "schedule"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Which platform does the",
+    "target": "train",
+    "post": " leave from?",
+    "translation": "С какой платформы отправляется поезд?",
+    "options": ["bus", "plane", "train", "taxi"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Is this the right",
+    "target": "direction",
+    "post": " to the museum?",
+    "translation": "Это правильное направление к музею?",
+    "options": ["place", "direction", "area", "side"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "How long does it",
+    "target": "take",
+    "post": " by bus?",
+    "translation": "Сколько времени это займет на автобусе?",
+    "options": ["take", "spend", "use", "pass"],
+    "correctIndex": 0
+  },
+  {
+    "category": "travel",
+    "pre": "I think I am",
+    "target": "lost",
+    "post": ".",
+    "translation": "Кажется, я заблудился.",
+    "options": ["late", "lost", "wrong", "alone"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Can you show it on the",
+    "target": "map",
+    "post": "?",
+    "translation": "Можете показать это на карте?",
+    "options": ["screen", "paper", "map", "sign"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Where is the nearest",
+    "target": "hotel",
+    "post": " from here?",
+    "translation": "Где ближайший отель отсюда?",
+    "options": ["bank", "shop", "hotel", "school"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "What time does the museum",
+    "target": "open",
+    "post": "?",
+    "translation": "Во сколько открывается музей?",
+    "options": ["close", "open", "start", "finish"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Is this seat already",
+    "target": "taken",
+    "post": "?",
+    "translation": "Это место уже занято?",
+    "options": ["used", "taken", "full", "busy"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Can I get the",
+    "target": "wifi",
+    "post": " password?",
+    "translation": "Можно пароль от Wi-Fi?",
+    "options": ["signal", "internet", "wifi", "network"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Where do I go for passport",
+    "target": "control",
+    "post": "?",
+    "translation": "Куда идти на паспортный контроль?",
+    "options": ["security", "customs", "control", "boarding"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "What time does",
+    "target": "boarding",
+    "post": " start?",
+    "translation": "Во сколько начинается посадка?",
+    "options": ["arrival", "departure", "boarding", "check-in"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "My flight was",
+    "target": "canceled",
+    "post": ". What should I do?",
+    "translation": "Мой рейс отменили. Что мне делать?",
+    "options": ["delayed", "late", "canceled", "missed"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Where can I collect my",
+    "target": "baggage",
+    "post": "?",
+    "translation": "Где я могу забрать багаж?",
+    "options": ["luggage", "baggage", "bags", "cases"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Which gate is my",
+    "target": "flight",
+    "post": " leaving from?",
+    "translation": "С какого выхода отправляется мой рейс?",
+    "options": ["bus", "plane", "flight", "train"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Do I need to go through",
+    "target": "security",
+    "post": " again?",
+    "translation": "Мне нужно снова проходить досмотр?",
+    "options": ["customs", "security", "control", "inspection"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Where can I exchange",
+    "target": "currency",
+    "post": "?",
+    "translation": "Где можно обменять валюту?",
+    "options": ["money", "cash", "currency", "coins"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Is there a",
+    "target": "shuttle",
+    "post": " to the hotel?",
+    "translation": "Есть ли шаттл до отеля?",
+    "options": ["taxi", "shuttle", "bus", "transfer"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "How far is it from the airport to the",
+    "target": "hotel",
+    "post": "?",
+    "translation": "Как далеко от аэропорта до отеля?",
+    "options": ["station", "center", "hotel", "terminal"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Is early",
+    "target": "check-in",
+    "post": " possible?",
+    "translation": "Возможен ли ранний заезд?",
+    "options": ["check-in", "check-out", "booking", "arrival"],
+    "correctIndex": 0
+  },
+  {
+    "category": "travel",
+    "pre": "Can I leave my",
+    "target": "luggage",
+    "post": " here after check-out?",
+    "translation": "Могу ли я оставить багаж после выезда?",
+    "options": ["bags", "cases", "luggage", "items"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "What time does the last",
+    "target": "train",
+    "post": " leave?",
+    "translation": "Во сколько отправляется последний поезд?",
+    "options": ["bus", "tram", "train", "metro"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Do I need a printed",
+    "target": "ticket",
+    "post": "?",
+    "translation": "Мне нужен распечатанный билет?",
+    "options": ["receipt", "ticket", "document", "paper"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Where is the nearest",
+    "target": "ATM",
+    "post": "?",
+    "translation": "Где ближайший банкомат?",
+    "options": ["bank", "ATM", "office", "counter"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Is travel",
+    "target": "insurance",
+    "post": " required?",
+    "translation": "Требуется ли туристическая страховка?",
+    "options": ["safety", "insurance", "support", "service"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Can I change my seat on the",
+    "target": "plane",
+    "post": "?",
+    "translation": "Могу ли я поменять место в самолете?",
+    "options": ["bus", "train", "plane", "taxi"],
+    "correctIndex": 2
+  },
+  {
+    "category": "travel",
+    "pre": "Is there an extra",
+    "target": "fee",
+    "post": " for baggage?",
+    "translation": "Есть ли дополнительная плата за багаж?",
+    "options": ["price", "fee", "cost", "bill"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "How long is the",
+    "target": "layover",
+    "post": "?",
+    "translation": "Сколько длится пересадка?",
+    "options": ["delay", "layover", "transfer", "stop"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Where can I get a local",
+    "target": "SIM",
+    "post": " card?",
+    "translation": "Где можно купить местную SIM-карту?",
+    "options": ["phone", "SIM", "number", "signal"],
+    "correctIndex": 1
+  },
+  {
+    "category": "travel",
+    "pre": "Is this stop the right one for the",
+    "target": "museum",
+    "post": "?",
+    "translation": "Это правильная остановка для музея?",
+    "options": ["station", "museum", "center", "hotel"],
+    "correctIndex": 1
+  }
+]

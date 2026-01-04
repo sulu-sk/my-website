@@ -1,0 +1,212 @@
+[
+  {
+    "category": "food",
+    "pre": "I would like to see the",
+    "target": "menu",
+    "post": ", please.",
+    "translation": "Я хотел бы посмотреть меню, пожалуйста.",
+    "options": [
+      "manure",
+      "menu",
+      "venue",
+      "manual"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "This soup is too",
+    "target": "salty",
+    "post": "for me.",
+    "translation": "Этот суп слишком соленый для меня.",
+    "options": [
+      "safety",
+      "softly",
+      "salty",
+      "salary"
+    ],
+    "correctIndex": 2
+  }
+  ,
+
+  {
+    "category": "food",
+    "pre": "Can I see the",
+    "target": "menu",
+    "post": ", please?",
+    "translation": "Можно посмотреть меню, пожалуйста?",
+    "options": ["manual", "menu", "money", "monitor"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "I would like to",
+    "target": "order",
+    "post": " now.",
+    "translation": "Я бы хотел сделать заказ сейчас.",
+    "options": ["offer", "order", "owner", "other"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "This dish is very",
+    "target": "tasty",
+    "post": ".",
+    "translation": "Это блюдо очень вкусное.",
+    "options": ["testy", "tasty", "toasty", "touchy"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "The food smells really",
+    "target": "good",
+    "post": ".",
+    "translation": "Еда пахнет очень вкусно.",
+    "options": ["gold", "good", "gone", "goal"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "This coffee is too",
+    "target": "bitter",
+    "post": " for me.",
+    "translation": "Этот кофе слишком горький для меня.",
+    "options": ["better", "butter", "bitter", "battery"],
+    "correctIndex": 2
+  },
+  {
+    "category": "food",
+    "pre": "I’ll have the",
+    "target": "chicken",
+    "post": ", please.",
+    "translation": "Я возьму курицу, пожалуйста.",
+    "options": ["kitchen", "chicken", "children", "checking"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "Is this dish",
+    "target": "spicy",
+    "post": "?",
+    "translation": "Это блюдо острое?",
+    "options": ["spicy", "spite", "spacey", "special"],
+    "correctIndex": 0
+  },
+  {
+    "category": "food",
+    "pre": "I don’t eat",
+    "target": "meat",
+    "post": ".",
+    "translation": "Я не ем мясо.",
+    "options": ["meet", "meant", "meat", "meter"],
+    "correctIndex": 2
+  },
+  {
+    "category": "food",
+    "pre": "Do you have any",
+    "target": "vegetarian",
+    "post": " dishes?",
+    "translation": "У вас есть вегетарианские блюда?",
+    "options": ["veteran", "vegetarian", "variation", "vegetable"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "This dish is",
+    "target": "too",
+    "post": " expensive.",
+    "translation": "Это блюдо слишком дорогое.",
+    "options": ["two", "to", "too", "top"],
+    "correctIndex": 2
+  },
+  {
+    "category": "food",
+    "pre": "The portion is quite",
+    "target": "large",
+    "post": ".",
+    "translation": "Порция довольно большая.",
+    "options": ["large", "long", "light", "late"],
+    "correctIndex": 0
+  },
+  {
+    "category": "food",
+    "pre": "Can I get this",
+    "target": "to-go",
+    "post": "?",
+    "translation": "Можно взять это с собой?",
+    "options": ["to-go", "today", "together", "tomorrow"],
+    "correctIndex": 0
+  },
+  {
+    "category": "food",
+    "pre": "This food is",
+    "target": "cold",
+    "post": ".",
+    "translation": "Эта еда холодная.",
+    "options": ["called", "cold", "clean", "close"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "The food is",
+    "target": "fresh",
+    "post": ".",
+    "translation": "Еда свежая.",
+    "options": ["free", "fresh", "frozen", "fast"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "I’m",
+    "target": "full",
+    "post": " already.",
+    "translation": "Я уже сыт.",
+    "options": ["fill", "fail", "full", "fall"],
+    "correctIndex": 2
+  },
+  {
+    "category": "food",
+    "pre": "Could we get the",
+    "target": "bill",
+    "post": ", please?",
+    "translation": "Можно счет, пожалуйста?",
+    "options": ["bill", "ball", "belt", "bell"],
+    "correctIndex": 0
+  },
+  {
+    "category": "food",
+    "pre": "This dessert is very",
+    "target": "sweet",
+    "post": ".",
+    "translation": "Этот десерт очень сладкий.",
+    "options": ["sweat", "sweet", "suite", "switch"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "I’m allergic to",
+    "target": "nuts",
+    "post": ".",
+    "translation": "У меня аллергия на орехи.",
+    "options": ["notes", "nets", "nuts", "needs"],
+    "correctIndex": 2
+  },
+  {
+    "category": "food",
+    "pre": "This sauce is",
+    "target": "amazing",
+    "post": ".",
+    "translation": "Этот соус потрясающий.",
+    "options": ["amusing", "amazing", "annoying", "arranging"],
+    "correctIndex": 1
+  },
+  {
+    "category": "food",
+    "pre": "Can you make it",
+    "target": "less",
+    "post": " spicy?",
+    "translation": "Можете сделать менее острым?",
+    "options": ["least", "less", "loss", "late"],
+    "correctIndex": 1
+  }
+]

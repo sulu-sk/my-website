@@ -1,0 +1,705 @@
+[
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "reading",
+    "post": " books?",
+    "translation": "Тебе нравится читать книги?",
+    "options": ["reading", "writing", "listening", "watching"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "watching",
+    "post": " movies?",
+    "translation": "Тебе нравится смотреть фильмы?",
+    "options": ["watching", "filming", "recording", "directing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you play any",
+    "target": "sports",
+    "post": "?",
+    "translation": "Ты занимаешься спортом?",
+    "options": ["games", "sports", "matches", "events"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "cooking",
+    "post": " at home?",
+    "translation": "Тебе нравится готовить дома?",
+    "options": ["cooking", "eating", "ordering", "serving"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "photography",
+    "post": "?",
+    "translation": "Ты интересуешься фотографией?",
+    "options": ["painting", "photography", "design", "drawing"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "traveling",
+    "post": " in your free time?",
+    "translation": "Тебе нравится путешествовать в свободное время?",
+    "options": ["traveling", "working", "studying", "cleaning"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "listening",
+    "post": " to music?",
+    "translation": "Тебе нравится слушать музыку?",
+    "options": ["listening", "playing", "singing", "writing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you play a musical",
+    "target": "instrument",
+    "post": "?",
+    "translation": "Ты играешь на музыкальном инструменте?",
+    "options": ["song", "instrument", "sound", "track"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "drawing",
+    "post": "?",
+    "translation": "Тебе нравится рисовать?",
+    "options": ["drawing", "painting", "designing", "coloring"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "gaming",
+    "post": "?",
+    "translation": "Ты увлекаешься видеоиграми?",
+    "options": ["gaming", "working", "training", "studying"],
+    "correctIndex": 0
+  },
+
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "hiking",
+    "post": " on weekends?",
+    "translation": "Тебе нравится ходить в походы по выходным?",
+    "options": ["hiking", "driving", "shopping", "resting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "swimming",
+    "post": "?",
+    "translation": "Тебе нравится плавать?",
+    "options": ["swimming", "running", "jumping", "climbing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "cycling",
+    "post": "?",
+    "translation": "Тебе нравится кататься на велосипеде?",
+    "options": ["cycling", "driving", "walking", "riding"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "yoga",
+    "post": "?",
+    "translation": "Ты интересуешься йогой?",
+    "options": ["yoga", "dance", "fitness", "training"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "gardening",
+    "post": "?",
+    "translation": "Тебе нравится заниматься садоводством?",
+    "options": ["gardening", "cleaning", "building", "fixing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "fishing",
+    "post": "?",
+    "translation": "Тебе нравится рыбалка?",
+    "options": ["fishing", "hunting", "boating", "diving"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "painting",
+    "post": "?",
+    "translation": "Ты интересуешься живописью?",
+    "options": ["drawing", "painting", "sketching", "designing"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "writing",
+    "post": " stories?",
+    "translation": "Тебе нравится писать рассказы?",
+    "options": ["reading", "writing", "editing", "printing"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "dancing",
+    "post": "?",
+    "translation": "Тебе нравится танцевать?",
+    "options": ["dancing", "singing", "acting", "posing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "fitness",
+    "post": "?",
+    "translation": "Ты увлекаешься фитнесом?",
+    "options": ["fitness", "health", "diet", "routine"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "skiing",
+    "post": "?",
+    "translation": "Тебе нравится кататься на лыжах?",
+    "options": ["skiing", "snowboarding", "hiking", "climbing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "camping",
+    "post": " in nature?",
+    "translation": "Тебе нравится отдыхать в кемпинге на природе?",
+    "options": ["camping", "hiking", "fishing", "cycling"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "running",
+    "post": " in the morning?",
+    "translation": "Тебе нравится бегать утром?",
+    "options": ["jumping", "running", "walking", "cycling"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "knitting",
+    "post": "?",
+    "translation": "Ты интересуешься вязанием?",
+    "options": ["knitting", "sewing", "crocheting", "painting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "playing",
+    "post": " chess?",
+    "translation": "Тебе нравится играть в шахматы?",
+    "options": ["watching", "playing", "reading", "solving"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "watching",
+    "post": " sports?",
+    "translation": "Тебе нравится смотреть спорт?",
+    "options": ["watching", "playing", "reading", "listening"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "birdwatching",
+    "post": "?",
+    "translation": "Ты увлекаешься наблюдением за птицами?",
+    "options": ["fishing", "birdwatching", "hiking", "cycling"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "baking",
+    "post": "?",
+    "translation": "Тебе нравится печь?",
+    "options": ["cooking", "baking", "eating", "grilling"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "collecting",
+    "post": " stamps?",
+    "translation": "Тебе нравится коллекционировать марки?",
+    "options": ["collecting", "drawing", "buying", "trading"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "jogging",
+    "post": "?",
+    "translation": "Ты интересуешься бегом трусцой?",
+    "options": ["walking", "jogging", "running", "cycling"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "surfing",
+    "post": " the internet?",
+    "translation": "Тебе нравится сидеть в интернете?",
+    "options": ["surfing", "swimming", "scrolling", "chatting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "playing",
+    "post": " video games?",
+    "translation": "Тебе нравится играть в видеоигры?",
+    "options": ["watching", "playing", "streaming", "reading"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "crafting",
+    "post": "?",
+    "translation": "Ты увлекаешься рукоделием?",
+    "options": ["crafting", "drawing", "writing", "painting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "singing",
+    "post": "?",
+    "translation": "Тебе нравится петь?",
+    "options": ["singing", "dancing", "listening", "playing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "watching",
+    "post": " documentaries?",
+    "translation": "Тебе нравится смотреть документальные фильмы?",
+    "options": ["watching", "reading", "listening", "studying"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "meditation",
+    "post": "?",
+    "translation": "Ты интересуешься медитацией?",
+    "options": ["yoga", "meditation", "fitness", "therapy"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "jogging",
+    "post": " in the park?",
+    "translation": "Тебе нравится бегать трусцой в парке?",
+    "options": ["walking", "jogging", "running", "cycling"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "playing",
+    "post": " board games?",
+    "translation": "Тебе нравится играть в настольные игры?",
+    "options": ["watching", "playing", "reading", "collecting"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "knitting",
+    "post": " scarves?",
+    "translation": "Ты увлекаешься вязанием шарфов?",
+    "options": ["knitting", "crocheting", "sewing", "drawing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "reading",
+    "post": " comics?",
+    "translation": "Тебе нравится читать комиксы?",
+    "options": ["reading", "writing", "drawing", "watching"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "cycling",
+    "post": " in the countryside?",
+    "translation": "Тебе нравится кататься на велосипеде за городом?",
+    "options": ["driving", "cycling", "walking", "running"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "pottery",
+    "post": "?",
+    "translation": "Ты интересуешься гончарным делом?",
+    "options": ["pottery", "painting", "drawing", "sculpting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "playing",
+    "post": " cards?",
+    "translation": "Тебе нравится играть в карты?",
+    "options": ["playing", "watching", "reading", "collecting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "baking",
+    "post": " cakes?",
+    "translation": "Тебе нравится печь торты?",
+    "options": ["cooking", "baking", "frying", "grilling"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "sketching",
+    "post": "?",
+    "translation": "Ты увлекаешься рисованием набросков?",
+    "options": ["sketching", "painting", "drawing", "crafting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "dancing",
+    "post": " at parties?",
+    "translation": "Тебе нравится танцевать на вечеринках?",
+    "options": ["dancing", "singing", "playing", "watching"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "photography",
+    "post": "?",
+    "translation": "Тебе нравится фотографировать?",
+    "options": ["photography", "painting", "drawing", "designing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "birdwatching",
+    "post": " in the forest?",
+    "translation": "Ты увлекаешься наблюдением за птицами в лесу?",
+    "options": ["hunting", "birdwatching", "fishing", "hiking"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "swimming",
+    "post": " in the pool?",
+    "translation": "Тебе нравится плавать в бассейне?",
+    "options": ["swimming", "diving", "surfing", "sailing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "playing",
+    "post": " the guitar?",
+    "translation": "Тебе нравится играть на гитаре?",
+    "options": ["playing", "listening", "watching", "reading"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "jogging",
+    "post": " in the morning?",
+    "translation": "Ты увлекаешься бегом трусцой по утрам?",
+    "options": ["walking", "jogging", "cycling", "swimming"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "playing",
+    "post": " the piano?",
+    "translation": "Тебе нравится играть на пианино?",
+    "options": ["playing", "listening", "watching", "reading"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "gardening",
+    "post": " flowers?",
+    "translation": "Тебе нравится заниматься садоводством и цветами?",
+    "options": ["gardening", "cooking", "cleaning", "painting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "knitting",
+    "post": " sweaters?",
+    "translation": "Ты увлекаешься вязанием свитеров?",
+    "options": ["knitting", "sewing", "crocheting", "drawing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "biking",
+    "post": " on weekends?",
+    "translation": "Тебе нравится кататься на велосипеде по выходным?",
+    "options": ["biking", "driving", "walking", "running"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "playing",
+    "post": " the violin?",
+    "translation": "Тебе нравится играть на скрипке?",
+    "options": ["playing", "listening", "watching", "learning"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "yoga",
+    "post": " in the morning?",
+    "translation": "Ты увлекаешься йогой по утрам?",
+    "options": ["yoga", "meditation", "fitness", "dancing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "surfing",
+    "post": " at the beach?",
+    "translation": "Тебе нравится заниматься серфингом на пляже?",
+    "options": ["surfing", "swimming", "fishing", "diving"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "writing",
+    "post": " poems?",
+    "translation": "Тебе нравится писать стихи?",
+    "options": ["writing", "reading", "drawing", "painting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "playing",
+    "post": " soccer?",
+    "translation": "Ты увлекаешься игрой в футбол?",
+    "options": ["watching", "playing", "running", "training"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "sketching",
+    "post": " landscapes?",
+    "translation": "Тебе нравится рисовать наброски пейзажей?",
+    "options": ["painting", "sketching", "drawing", "photography"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "playing",
+    "post": " basketball?",
+    "translation": "Тебе нравится играть в баскетбол?",
+    "options": ["playing", "watching", "training", "coaching"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "photography",
+    "post": " of nature?",
+    "translation": "Ты увлекаешься фотографией природы?",
+    "options": ["photography", "painting", "drawing", "designing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "fishing",
+    "post": " in rivers?",
+    "translation": "Тебе нравится ловить рыбу в реках?",
+    "options": ["fishing", "swimming", "diving", "boating"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "hiking",
+    "post": " in the mountains?",
+    "translation": "Тебе нравится ходить в походы в горах?",
+    "options": ["hiking", "climbing", "running", "cycling"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "playing",
+    "post": " tennis?",
+    "translation": "Ты увлекаешься игрой в теннис?",
+    "options": ["watching", "playing", "training", "coaching"],
+    "correctIndex": 1
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "reading",
+    "post": " magazines?",
+    "translation": "Тебе нравится читать журналы?",
+    "options": ["reading", "watching", "listening", "writing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "cooking",
+    "post": " new recipes?",
+    "translation": "Тебе нравится готовить новые рецепты?",
+    "options": ["cooking", "eating", "baking", "grilling"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "playing",
+    "post": " chess competitively?",
+    "translation": "Ты увлекаешься игрой в шахматы на соревнованиях?",
+    "options": ["playing", "watching", "learning", "reading"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "collecting",
+    "post": " coins?",
+    "translation": "Тебе нравится коллекционировать монеты?",
+    "options": ["collecting", "trading", "buying", "selling"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "baking",
+    "post": " bread?",
+    "translation": "Тебе нравится печь хлеб?",
+    "options": ["baking", "cooking", "grilling", "frying"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "crafting",
+    "post": " with paper?",
+    "translation": "Ты увлекаешься поделками из бумаги?",
+    "options": ["crafting", "painting", "drawing", "designing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "listening",
+    "post": " to podcasts?",
+    "translation": "Тебе нравится слушать подкасты?",
+    "options": ["listening", "reading", "watching", "writing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "playing",
+    "post": " the drums?",
+    "translation": "Тебе нравится играть на барабанах?",
+    "options": ["playing", "watching", "listening", "learning"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you into",
+    "target": "modeling",
+    "post": " planes?",
+    "translation": "Ты увлекаешься моделированием самолетов?",
+    "options": ["modeling", "painting", "drawing", "crafting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you enjoy",
+    "target": "running",
+    "post": " marathons?",
+    "translation": "Тебе нравится бегать марафоны?",
+    "options": ["running", "walking", "jogging", "cycling"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Do you like",
+    "target": "watching",
+    "post": " theater performances?",
+    "translation": "Тебе нравится смотреть театральные представления?",
+    "options": ["watching", "reading", "listening", "playing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "hobbies",
+    "pre": "Are you interested in",
+    "target": "playing",
+    "post": " volleyball?",
+    "translation": "Ты увлекаешься игрой в волейбол?",
+    "options": ["playing", "watching", "training", "coaching"],
+    "correctIndex": 0
+  }
+]

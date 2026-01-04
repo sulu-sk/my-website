@@ -1,0 +1,624 @@
+[
+  {
+    "category": "basics",
+    "pre": "How are you",
+    "target": "doing",
+    "post": "?",
+    "translation": "Как у тебя дела?",
+    "options": ["doing", "going", "making", "living"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What is your",
+    "target": "name",
+    "post": "?",
+    "translation": "Как тебя зовут?",
+    "options": ["name", "nickname", "number", "nation"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Where are you",
+    "target": "from",
+    "post": "?",
+    "translation": "Откуда ты?",
+    "options": ["for", "from", "front", "form"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "How",
+    "target": "old",
+    "post": " are you?",
+    "translation": "Сколько тебе лет?",
+    "options": ["old", "older", "age", "young"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "do",
+    "post": "?",
+    "translation": "Чем ты занимаешься?",
+    "options": ["does", "doing", "did", "do"],
+    "correctIndex": 3
+  },
+  {
+    "category": "basics",
+    "pre": "Are you",
+    "target": "busy",
+    "post": " right now?",
+    "translation": "Ты сейчас занят?",
+    "options": ["free", "early", "busy", "late"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "work",
+    "post": " or study?",
+    "translation": "Ты работаешь или учишься?",
+    "options": ["walk", "work", "watch", "wait"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "What time is it",
+    "target": "now",
+    "post": "?",
+    "translation": "Который сейчас час?",
+    "options": ["new", "next", "now", "near"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Can you",
+    "target": "help",
+    "post": " me?",
+    "translation": "Ты можешь мне помочь?",
+    "options": ["hold", "hope", "help", "hear"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "understand",
+    "post": "?",
+    "translation": "Ты понимаешь?",
+    "options": ["understand", "explain", "remember", "believe"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Can you",
+    "target": "repeat",
+    "post": " that?",
+    "translation": "Можешь повторить?",
+    "options": ["return", "repeat", "reply", "repair"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Is everything",
+    "target": "okay",
+    "post": "?",
+    "translation": "Все в порядке?",
+    "options": ["fine", "okay", "right", "well"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "What are you",
+    "target": "doing",
+    "post": " right now?",
+    "translation": "Что ты сейчас делаешь?",
+    "options": ["doing", "making", "working", "thinking"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Do you have",
+    "target": "time",
+    "post": "?",
+    "translation": "У тебя есть время?",
+    "options": ["money", "time", "plan", "idea"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Where are you",
+    "target": "going",
+    "post": "?",
+    "translation": "Куда ты идешь?",
+    "options": ["going", "coming", "walking", "moving"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Are you",
+    "target": "ready",
+    "post": "?",
+    "translation": "Ты готов?",
+    "options": ["ready", "early", "busy", "done"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "think",
+    "post": "?",
+    "translation": "Что ты думаешь?",
+    "options": ["say", "feel", "think", "know"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Can I ask you a",
+    "target": "question",
+    "post": "?",
+    "translation": "Можно задать тебе вопрос?",
+    "options": ["problem", "question", "story", "thing"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "agree",
+    "post": "?",
+    "translation": "Ты согласен?",
+    "options": ["agree", "argue", "answer", "allow"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What does this",
+    "target": "mean",
+    "post": "?",
+    "translation": "Что это значит?",
+    "options": ["mean", "matter", "sound", "show"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What are you",
+    "target": "looking",
+    "post": " for?",
+    "translation": "Что ты ищешь?",
+    "options": ["seeing", "finding", "looking", "search"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "need",
+    "post": " help?",
+    "translation": "Тебе нужна помощь?",
+    "options": ["want", "need", "use", "make"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Can you",
+    "target": "hear",
+    "post": " me?",
+    "translation": "Ты меня слышишь?",
+    "options": ["listen", "sound", "hear", "notice"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "remember",
+    "post": " me?",
+    "translation": "Ты меня помнишь?",
+    "options": ["forget", "remind", "remember", "recognize"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Are you",
+    "target": "free",
+    "post": " today?",
+    "translation": "Ты свободен сегодня?",
+    "options": ["busy", "free", "late", "ready"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "want",
+    "post": "?",
+    "translation": "Что ты хочешь?",
+    "options": ["need", "want", "like", "plan"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "like",
+    "post": " it?",
+    "translation": "Тебе это нравится?",
+    "options": ["love", "hate", "like", "enjoy"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "What are you",
+    "target": "thinking",
+    "post": " about?",
+    "translation": "О чем ты думаешь?",
+    "options": ["thinking", "talking", "worrying", "waiting"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Can you",
+    "target": "wait",
+    "post": " a minute?",
+    "translation": "Можешь подождать минуту?",
+    "options": ["stop", "stay", "wait", "hold"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Is this your",
+    "target": "first",
+    "post": " time here?",
+    "translation": "Ты здесь в первый раз?",
+    "options": ["next", "last", "first", "only"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "How did you",
+    "target": "find",
+    "post": " this place?",
+    "translation": "Как ты нашел это место?",
+    "options": ["find", "look", "see", "check"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Are you",
+    "target": "serious",
+    "post": "?",
+    "translation": "Ты серьезно?",
+    "options": ["honest", "ready", "serious", "sure"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "mean",
+    "post": "?",
+    "translation": "Что ты имеешь в виду?",
+    "options": ["mean", "think", "say", "know"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "mind",
+    "post": "?",
+    "translation": "Ты не против?",
+    "options": ["care", "mind", "agree", "object"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Are you",
+    "target": "sure",
+    "post": " about that?",
+    "translation": "Ты уверен в этом?",
+    "options": ["right", "sure", "clear", "ready"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "What are you",
+    "target": "waiting",
+    "post": " for?",
+    "translation": "Чего ты ждешь?",
+    "options": ["waiting", "looking", "asking", "hoping"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "feel",
+    "post": " okay?",
+    "translation": "Ты нормально себя чувствуешь?",
+    "options": ["look", "feel", "seem", "act"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Can we",
+    "target": "talk",
+    "post": " later?",
+    "translation": "Можем поговорить позже?",
+    "options": ["speak", "talk", "tell", "say"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "trust",
+    "post": " me?",
+    "translation": "Ты мне доверяешь?",
+    "options": ["trust", "believe", "follow", "know"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "usually",
+    "post": " do?",
+    "translation": "Что ты обычно делаешь?",
+    "options": ["always", "usually", "sometimes", "never"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "have",
+    "post": " a moment?",
+    "translation": "У тебя есть минутка?",
+    "options": ["get", "have", "take", "hold"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Can you",
+    "target": "explain",
+    "post": " this?",
+    "translation": "Можешь это объяснить?",
+    "options": ["explain", "describe", "repeat", "show"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What are you",
+    "target": "talking",
+    "post": " about?",
+    "translation": "О чем ты говоришь?",
+    "options": ["speaking", "saying", "talking", "telling"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Is this",
+    "target": "right",
+    "post": "?",
+    "translation": "Это правильно?",
+    "options": ["correct", "right", "true", "real"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Are you",
+    "target": "okay",
+    "post": "?",
+    "translation": "Ты в порядке?",
+    "options": ["fine", "okay", "good", "well"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "know",
+    "post": " him?",
+    "translation": "Ты его знаешь?",
+    "options": ["meet", "see", "know", "remember"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Can I",
+    "target": "join",
+    "post": " you?",
+    "translation": "Можно к тебе присоединиться?",
+    "options": ["come", "join", "follow", "meet"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "What’s",
+    "target": "going",
+    "post": " on?",
+    "translation": "Что происходит?",
+    "options": ["doing", "happening", "going", "moving"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "agree",
+    "post": " with me?",
+    "translation": "Ты со мной согласен?",
+    "options": ["agree", "accept", "approve", "allow"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Can you",
+    "target": "show",
+    "post": " me?",
+    "translation": "Можешь мне показать?",
+    "options": ["tell", "show", "give", "send"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "need",
+    "post": "?",
+    "translation": "Что тебе нужно?",
+    "options": ["want", "need", "like", "take"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Are you",
+    "target": "ready",
+    "post": " to go?",
+    "translation": "Ты готов идти?",
+    "options": ["ready", "done", "free", "early"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "do",
+    "post": " for fun?",
+    "translation": "Что ты делаешь для удовольствия?",
+    "options": ["does", "did", "do", "doing"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Can you",
+    "target": "hear",
+    "post": " that?",
+    "translation": "Ты это слышишь?",
+    "options": ["listen", "hear", "sound", "notice"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Is it",
+    "target": "far",
+    "post": " from here?",
+    "translation": "Это далеко отсюда?",
+    "options": ["long", "far", "near", "away"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "mind",
+    "post": " if I sit here?",
+    "translation": "Ты не против, если я сяду здесь?",
+    "options": ["care", "mind", "hate", "worry"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "What’s your",
+    "target": "plan",
+    "post": " for today?",
+    "translation": "Какой у тебя план на сегодня?",
+    "options": ["idea", "goal", "plan", "task"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Can we",
+    "target": "start",
+    "post": " now?",
+    "translation": "Мы можем начать сейчас?",
+    "options": ["start", "begin", "open", "go"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "feel",
+    "post": " tired?",
+    "translation": "Ты чувствуешь усталость?",
+    "options": ["feel", "look", "sound", "seem"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "prefer",
+    "post": "?",
+    "translation": "Что ты предпочитаешь?",
+    "options": ["prefer", "choose", "pick", "decide"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Can you",
+    "target": "call",
+    "post": " me later?",
+    "translation": "Можешь позвонить мне позже?",
+    "options": ["text", "call", "answer", "ring"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Are you",
+    "target": "sure",
+    "post": " you want this?",
+    "translation": "Ты уверен, что хочешь этого?",
+    "options": ["clear", "sure", "right", "ready"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "What’s your",
+    "target": "opinion",
+    "post": "?",
+    "translation": "Какое твое мнение?",
+    "options": ["idea", "opinion", "thought", "view"],
+    "correctIndex": 1
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "understand",
+    "post": " me?",
+    "translation": "Ты меня понимаешь?",
+    "options": ["hear", "listen", "understand", "know"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Can I",
+    "target": "help",
+    "post": " you with that?",
+    "translation": "Я могу тебе с этим помочь?",
+    "options": ["help", "fix", "do", "make"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What’s the",
+    "target": "problem",
+    "post": "?",
+    "translation": "В чем проблема?",
+    "options": ["matter", "issue", "problem", "trouble"],
+    "correctIndex": 2
+  },
+  {
+    "category": "basics",
+    "pre": "Do you",
+    "target": "trust",
+    "post": " them?",
+    "translation": "Ты им доверяешь?",
+    "options": ["trust", "believe", "follow", "like"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "What do you",
+    "target": "mean",
+    "post": " by that?",
+    "translation": "Что ты имеешь в виду?",
+    "options": ["mean", "say", "think", "want"],
+    "correctIndex": 0
+  },
+  {
+    "category": "basics",
+    "pre": "Is there",
+    "target": "something",
+    "post": " wrong?",
+    "translation": "Что-то не так?",
+    "options": ["anything", "nothing", "something", "everything"],
+    "correctIndex": 2
+  }
+]
+

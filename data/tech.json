@@ -1,0 +1,616 @@
+[
+  {
+    "category": "tech",
+    "pre": "Do you use a",
+    "target": "computer",
+    "post": " every day?",
+    "translation": "Ты используешь компьютер каждый день?",
+    "options": ["computer", "phone", "tablet", "console"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you know how to",
+    "target": "code",
+    "post": "?",
+    "translation": "Ты умеешь программировать?",
+    "options": ["code", "draw", "write", "design"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "smartphones",
+    "post": "?",
+    "translation": "Тебе нравятся смартфоны?",
+    "options": ["smartphones", "computers", "tablets", "gadgets"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use a",
+    "target": "tablet",
+    "post": " for reading?",
+    "translation": "Ты используешь планшет для чтения?",
+    "options": ["tablet", "computer", "phone", "book"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "artificial intelligence",
+    "post": "?",
+    "translation": "Ты интересуешься искусственным интеллектом?",
+    "options": ["artificial intelligence", "robotics", "electronics", "programming"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "gaming",
+    "post": " on a computer?",
+    "translation": "Тебе нравится играть на компьютере?",
+    "options": ["gaming", "coding", "reading", "writing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you know how to use",
+    "target": "software",
+    "post": " tools?",
+    "translation": "Ты умеешь пользоваться программными инструментами?",
+    "options": ["software", "hardware", "gadgets", "books"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "apps",
+    "post": " on your phone?",
+    "translation": "Тебе нравятся приложения на телефоне?",
+    "options": ["apps", "websites", "games", "emails"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use a",
+    "target": "keyboard",
+    "post": " daily?",
+    "translation": "Ты используешь клавиатуру каждый день?",
+    "options": ["keyboard", "mouse", "monitor", "phone"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you know how to",
+    "target": "program",
+    "post": " in Python?",
+    "translation": "Ты умеешь программировать на Python?",
+    "options": ["program", "draw", "write", "design"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "watching",
+    "post": " tech tutorials?",
+    "translation": "Тебе нравится смотреть обучающие видео по технологиям?",
+    "options": ["watching", "reading", "listening", "playing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "gadgets",
+    "post": " in your home?",
+    "translation": "Тебе нравятся гаджеты дома?",
+    "options": ["gadgets", "appliances", "tools", "books"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use a",
+    "target": "mouse",
+    "post": " with your computer?",
+    "translation": "Ты используешь мышь с компьютером?",
+    "options": ["mouse", "keyboard", "tablet", "monitor"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you know how to",
+    "target": "install",
+    "post": " software?",
+    "translation": "Ты умеешь устанавливать программное обеспечение?",
+    "options": ["install", "delete", "write", "read"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "virtual reality",
+    "post": "?",
+    "translation": "Ты интересуешься виртуальной реальностью?",
+    "options": ["virtual reality", "augmented reality", "gaming", "electronics"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "coding",
+    "post": " websites?",
+    "translation": "Тебе нравится писать код для сайтов?",
+    "options": ["coding", "designing", "drawing", "watching"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "programming",
+    "post": " mobile apps?",
+    "translation": "Тебе нравится программировать мобильные приложения?",
+    "options": ["programming", "designing", "drawing", "writing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use a",
+    "target": "monitor",
+    "post": " for work?",
+    "translation": "Ты используешь монитор для работы?",
+    "options": ["monitor", "keyboard", "tablet", "laptop"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "streaming",
+    "post": " videos online?",
+    "translation": "Тебе нравится стримить видео онлайн?",
+    "options": ["streaming", "watching", "listening", "downloading"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "cybersecurity",
+    "post": "?",
+    "translation": "Ты интересуешься кибербезопасностью?",
+    "options": ["cybersecurity", "programming", "gaming", "electronics"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "robots",
+    "post": " and automation?",
+    "translation": "Тебе нравятся роботы и автоматизация?",
+    "options": ["robots", "computers", "gadgets", "machines"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use a",
+    "target": "laptop",
+    "post": " for studying?",
+    "translation": "Ты используешь ноутбук для учебы?",
+    "options": ["laptop", "tablet", "phone", "desktop"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you know how to",
+    "target": "debug",
+    "post": " code?",
+    "translation": "Ты умеешь отлаживать код?",
+    "options": ["debug", "write", "draw", "install"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "using",
+    "post": " social media?",
+    "translation": "Тебе нравится пользоваться социальными сетями?",
+    "options": ["using", "reading", "watching", "writing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "wearable",
+    "post": " devices?",
+    "translation": "Тебе нравятся носимые устройства?",
+    "options": ["wearable", "portable", "stationary", "handheld"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "drones",
+    "post": "?",
+    "translation": "Ты интересуешься дронами?",
+    "options": ["drones", "robots", "gadgets", "computers"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "designing",
+    "post": " websites?",
+    "translation": "Тебе нравится создавать дизайн сайтов?",
+    "options": ["designing", "coding", "writing", "drawing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "3D printing",
+    "post": " at home?",
+    "translation": "Тебе нравится заниматься 3D-печатью дома?",
+    "options": ["3D printing", "modeling", "crafting", "drawing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "cloud storage",
+    "post": " for files?",
+    "translation": "Ты используешь облачное хранилище для файлов?",
+    "options": ["cloud storage", "USB drives", "CDs", "paper files"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "learning",
+    "post": " about new technology?",
+    "translation": "Тебе нравится изучать новые технологии?",
+    "options": ["learning", "reading", "watching", "listening"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "smart home",
+    "post": " devices?",
+    "translation": "Тебе нравятся устройства для умного дома?",
+    "options": ["smart home", "gadgets", "robots", "appliances"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "blockchain",
+    "post": "?",
+    "translation": "Ты интересуешься блокчейном?",
+    "options": ["blockchain", "cryptography", "cryptocurrency", "technology"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "streaming",
+    "post": " music online?",
+    "translation": "Тебе нравится слушать музыку онлайн?",
+    "options": ["streaming", "watching", "listening", "downloading"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "wearable",
+    "post": " fitness trackers?",
+    "translation": "Тебе нравятся носимые фитнес-трекеры?",
+    "options": ["wearable", "portable", "handheld", "stationary"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "VPN",
+    "post": " for privacy?",
+    "translation": "Ты используешь VPN для конфиденциальности?",
+    "options": ["VPN", "firewall", "antivirus", "browser"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "smartwatches",
+    "post": "?",
+    "translation": "Тебе нравятся умные часы?",
+    "options": ["smartwatches", "tablets", "laptops", "headphones"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you know how to",
+    "target": "use",
+    "post": " spreadsheets?",
+    "translation": "Ты умеешь пользоваться электронными таблицами?",
+    "options": ["use", "create", "install", "download"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "augmented reality",
+    "post": "?",
+    "translation": "Ты интересуешься дополненной реальностью?",
+    "options": ["augmented reality", "virtual reality", "gaming", "gadgets"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "building",
+    "post": " computers?",
+    "translation": "Тебе нравится собирать компьютеры?",
+    "options": ["building", "coding", "watching", "designing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "coding",
+    "post": " mobile games?",
+    "translation": "Тебе нравится программировать мобильные игры?",
+    "options": ["coding", "designing", "drawing", "watching"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "cloud services",
+    "post": " for work?",
+    "translation": "Ты используешь облачные сервисы для работы?",
+    "options": ["cloud services", "USB drives", "local storage", "CDs"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "testing",
+    "post": " new software?",
+    "translation": "Тебе нравится тестировать новое программное обеспечение?",
+    "options": ["testing", "coding", "designing", "using"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "gaming consoles",
+    "post": "?",
+    "translation": "Тебе нравятся игровые приставки?",
+    "options": ["gaming consoles", "computers", "tablets", "phones"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "machine learning",
+    "post": "?",
+    "translation": "Ты интересуешься машинным обучением?",
+    "options": ["machine learning", "artificial intelligence", "robotics", "coding"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "antivirus",
+    "post": " software?",
+    "translation": "Ты используешь антивирусное программное обеспечение?",
+    "options": ["antivirus", "firewall", "VPN", "browser"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "editing",
+    "post": " videos on your computer?",
+    "translation": "Тебе нравится монтировать видео на компьютере?",
+    "options": ["editing", "watching", "recording", "playing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "wearable",
+    "post": " health devices?",
+    "translation": "Тебе нравятся носимые устройства для здоровья?",
+    "options": ["wearable", "portable", "stationary", "handheld"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you into",
+    "target": "drone photography",
+    "post": "?",
+    "translation": "Ты увлекаешься фотосъемкой с дронов?",
+    "options": ["drone photography", "gaming", "robotics", "coding"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "learning",
+    "post": " new programming languages?",
+    "translation": "Тебе нравится изучать новые языки программирования?",
+    "options": ["learning", "using", "watching", "designing"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "smart home",
+    "post": " security devices?",
+    "translation": "Тебе нравятся устройства умного дома для безопасности?",
+    "options": ["smart home", "gadgets", "robots", "appliances"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "headphones",
+    "post": " while working?",
+    "translation": "Ты используешь наушники во время работы?",
+    "options": ["headphones", "speakers", "microphone", "tablet"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "quantum computing",
+    "post": "?",
+    "translation": "Ты интересуешься квантовыми вычислениями?",
+    "options": ["quantum computing", "AI", "coding", "electronics"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "building",
+    "post": " your own PC?",
+    "translation": "Тебе нравится собирать свой собственный ПК?",
+    "options": ["building", "coding", "designing", "using"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "wearable",
+    "post": " smart rings?",
+    "translation": "Тебе нравятся носимые умные кольца?",
+    "options": ["wearable", "portable", "handheld", "stationary"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "VR headset",
+    "post": " for gaming?",
+    "translation": "Ты используешь VR-шлем для игр?",
+    "options": ["VR headset", "monitor", "tablet", "laptop"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "robotics",
+    "post": "?",
+    "translation": "Ты интересуешься робототехникой?",
+    "options": ["robotics", "gaming", "coding", "electronics"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "3D modeling",
+    "post": " for games?",
+    "translation": "Тебе нравится создавать 3D-модели для игр?",
+    "options": ["3D modeling", "drawing", "painting", "coding"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "cloud computing",
+    "post": "?",
+    "translation": "Тебе нравится облачные вычисления?",
+    "options": ["cloud computing", "networking", "databases", "software"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "keyboard shortcuts",
+    "post": " often?",
+    "translation": "Ты часто используешь сочетания клавиш?",
+    "options": ["keyboard shortcuts", "mouse clicks", "touch gestures", "voice commands"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "cybersecurity",
+    "post": " courses?",
+    "translation": "Ты интересуешься курсами по кибербезопасности?",
+    "options": ["cybersecurity", "AI", "coding", "networking"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "coding",
+    "post": " challenges?",
+    "translation": "Тебе нравятся задачи по программированию?",
+    "options": ["coding", "designing", "drawing", "watching"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "open-source",
+    "post": " projects?",
+    "translation": "Тебе нравятся проекты с открытым исходным кодом?",
+    "options": ["open-source", "proprietary", "commercial", "closed-source"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "wireless",
+    "post": " chargers?",
+    "translation": "Ты используешь беспроводные зарядки?",
+    "options": ["wireless", "wired", "portable", "USB-C"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "AI",
+    "post": " applications?",
+    "translation": "Ты интересуешься приложениями искусственного интеллекта?",
+    "options": ["AI", "VR", "AR", "robotics"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you enjoy",
+    "target": "upgrading",
+    "post": " hardware?",
+    "translation": "Тебе нравится обновлять оборудование?",
+    "options": ["upgrading", "repairing", "using", "watching"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you like",
+    "target": "tech blogs",
+    "post": "?",
+    "translation": "Тебе нравятся технологические блоги?",
+    "options": ["tech blogs", "news blogs", "fashion blogs", "travel blogs"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Do you use",
+    "target": "wireless headphones",
+    "post": " daily?",
+    "translation": "Ты используешь беспроводные наушники ежедневно?",
+    "options": ["wireless headphones", "wired headphones", "speakers", "earplugs"],
+    "correctIndex": 0
+  },
+  {
+    "category": "tech",
+    "pre": "Are you interested in",
+    "target": "app development",
+    "post": "?",
+    "translation": "Ты интересуешься разработкой приложений?",
+    "options": ["app development", "web design", "graphic design", "gaming"],
+    "correctIndex": 0
+  }
+]
+
+
